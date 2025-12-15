@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Get Back (Remastered 2009)",
+  "base_artist": "The Beatles",
+  "createdAt": "2025-12-15T07:18:20.983663Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Get Back - Remastered 2015",
+      "artist": "The Beatles feat. Billy Preston",
+      "has_synced": true,
+      "path": "select/01_Get_Back_-_Remastered_2015_The_Beatles_feat._Billy_Preston.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Get Back - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/02_Get_Back_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Get Back (Remastered 2015)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/03_Get_Back_(Remastered_2015)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Get Back (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/04_Get_Back_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Get Back [Remastered 2015]",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/05_Get_Back_[Remastered_2015]_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Get Back - Remastered 2009",
+      "artist": "The Beatles feat. Billy Preston",
+      "has_synced": false,
+      "path": "select/06_Get_Back_-_Remastered_2009_The_Beatles_feat._Billy_Preston.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Get Back (Remastered 2009)",
+      "artist": "The Beatles, Billy Preston",
+      "has_synced": false,
+      "path": "select/07_Get_Back_(Remastered_2009)_The_Beatles,_Billy_Preston.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Get Back (Remastered 2015)",
+      "artist": "The Beatles, Billy Preston",
+      "has_synced": true,
+      "path": "select/08_Get_Back_(Remastered_2015)_The_Beatles,_Billy_Preston.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Get Back (Remastered 2009)",
+      "artist": "The Beatles, Billy Preston",
+      "has_synced": true,
+      "path": "select/09_Get_Back_(Remastered_2009)_The_Beatles,_Billy_Preston.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Get Back (Remastered 2015)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/10_Get_Back_(Remastered_2015)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Get Back (Remastered 2015)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/11_Get_Back_(Remastered_2015)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Get Back (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/12_Get_Back_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Get Back (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/13_Get_Back_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Get Back (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/14_Get_Back_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Get Back (Remastered 2015)",
+      "artist": "Billy Preston",
+      "has_synced": false,
+      "path": "select/15_Get_Back_(Remastered_2015)_Billy_Preston.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Get Back (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/16_Get_Back_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Get back (Remastered 2009)",
+      "artist": "The Beatles ft Billy Preston",
+      "has_synced": true,
+      "path": "select/17_Get_back_(Remastered_2009)_The_Beatles_ft_Billy_Preston.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Get Back",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/pl_01_Get_Back_The_Beatles.txt"
+    }
+  ]
+}
